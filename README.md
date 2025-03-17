@@ -1,7 +1,7 @@
 
 
 ## Getting Started
-
+```bash
 .env file
 
 DATABASE_URL="mongodb+srv://brennynesh:vt8He25Cy3SYErCn@graphiq.zqscc.mongodb.net/graphiq?retryWrites=true&w=majority&appName=graphiq"
@@ -17,8 +17,8 @@ CLOUDINARY_CLOUD_NAME=dhfg3suis
 CLOUDINARY_API_KEY=298684687375513
 CLOUDINARY_API_SECRET=4-3OX3DzX-ArnMRvLcXhH7BIWgc
 
-steps
- yarn
+```
+
 
 First, run the development server:
 
